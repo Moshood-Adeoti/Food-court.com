@@ -290,7 +290,7 @@ const navigate = useNavigate()
           {[...restaurants, ...restaurants].map((r, i) => (
             <div
               key={i}
-           className={`w-[75vw] sm:w-[45vw] md:w-[30vw] lg:w-[24vw] 
+           className={`w-[75vw] h-[50%] sm:w-[45vw] md:w-[30vw] lg:w-[24vw] 
 flex-shrink-0 rounded-xl border overflow-hidden
               ${theme === "dark"
                 ? "bg-gray-700 text-white border-white"

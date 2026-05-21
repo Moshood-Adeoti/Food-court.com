@@ -92,7 +92,7 @@ function LandingPage() {
     <span>FAST DELIVERY</span>
     <span>TOP CHEFS</span>
     <span>DELICIOUS MEALS</span>
-  </div>
+  </div> 
 </div>
 
 
